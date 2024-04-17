@@ -1,6 +1,7 @@
 <h1 align=center>Practice GitHub</h1>
 <p>This is mixing of HTML in GitHUB</p>
 <b>Lets Try all HTML Commands</b>
+<h1>Now changes</h1>
 <table align=center>
   <tr>
     <th>Commands</th>
